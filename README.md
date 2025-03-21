@@ -10,6 +10,6 @@ record solutions on codewars and leetcode
 
 ### 6 kyu
 
-1. [Find a Bunch of Common Elements of Two Lists in a Certain Range!](https://github.com/zhongxia2019/codewars-leetcode/blob/main/codewars/6kyu/find_arr.py) - [Link to CodeWars](https://www.codewars.com/kata/58161c5ac7e37d17fc00002f/)
-
+1. [Find a Bunch of Common Elements of Two Lists in a Certain Range!](https://github.com/zhongxia2019/codewars-leetcode/blob/main/codewars/6kyu/find_arr.py) - [Link to CodeWars](https://www.codewars.com/kata/58161c5ac7e37d17fc00002f)
+2. [Counting Duplicates](https://github.com/zhongxia2019/codewars-leetcode/blob/main/codewars/6kyu/duplicate_count.py) - [Link to CodeWars](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1)
 ## leetcode
