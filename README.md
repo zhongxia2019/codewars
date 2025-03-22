@@ -14,6 +14,8 @@ record solutions on codewars and leetcode
 2. [Counting Duplicates](https://github.com/zhongxia2019/codewars-leetcode/blob/main/codewars/6kyu/duplicate_count.py) - [Link to CodeWars](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1)
 3. [Am I safe to drive?](https://github.com/zhongxia2019/codewars-leetcode/blob/main/codewars/6kyu/drive.py) - [Link to CodeWars](https://www.codewars.com/kata/58ce88427e6c3f41c2000087)
 4. [Triangle of Multiples (Easy One)](https://github.com/zhongxia2019/codewars-leetcode/blob/main/codewars/6kyu/mult_triangle.py) - [Link to CodeWars](https://www.codewars.com/kata/58ecc0a8342ee5e920000115)
-
+5. [Find the odd int](https://github.com/zhongxia2019/codewars-leetcode/blob/main/codewars/6kyu/find_it.py) - [Link to CodeWars](https://www.codewars.com/kata/54da5a58ea159efa38000836)
+6. [Range Parser](https://github.com/zhongxia2019/codewars-leetcode/blob/main/codewars/6kyu/range_parser.py) - [Link to CodeWars](https://www.codewars.com/kata/57d307fb9d84633c5100007a)
+7. [Statistics for an Athletic Association](https://github.com/zhongxia2019/codewars-leetcode/blob/main/codewars/6kyu/stat.py) - [Link to CodeWars](https://www.codewars.com/kata/55b3425df71c1201a800009c)
 
 ## leetcode
