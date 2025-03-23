@@ -17,5 +17,9 @@ record solutions on codewars and leetcode
 5. [Find the odd int](https://github.com/zhongxia2019/codewars-leetcode/blob/main/codewars/6kyu/find_it.py) - [Link to CodeWars](https://www.codewars.com/kata/54da5a58ea159efa38000836)
 6. [Range Parser](https://github.com/zhongxia2019/codewars-leetcode/blob/main/codewars/6kyu/range_parser.py) - [Link to CodeWars](https://www.codewars.com/kata/57d307fb9d84633c5100007a)
 7. [Statistics for an Athletic Association](https://github.com/zhongxia2019/codewars-leetcode/blob/main/codewars/6kyu/stat.py) - [Link to CodeWars](https://www.codewars.com/kata/55b3425df71c1201a800009c)
+8. [Multiples of 3 or 5](https://github.com/zhongxia2019/codewars-leetcode/blob/main/codewars/6kyu/solution.py) - [Link to CodeWars](https://www.codewars.com/kata/514b92a657cdc65150000006)
+9. [Stop gninnipS My sdroW!](https://github.com/zhongxia2019/codewars-leetcode/blob/main/codewars/6kyu/spin_words.py) - [Link to CodeWars](https://www.codewars.com/kata/5264d2b162488dc400000001)
+10. [Array.diff](https://github.com/zhongxia2019/codewars-leetcode/blob/main/codewars/6kyu/array_diff.py) - [Link to CodeWars](https://www.codewars.com/kata/523f5d21c841566fde000009)
+
 
 ## leetcode
