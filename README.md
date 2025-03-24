@@ -22,7 +22,11 @@ record solutions on codewars and leetcode
 | 8      | [Multiples of 3 or 5](https://github.com/zhongxia2019/codewars-leetcode/blob/main/codewars/6kyu/solution.py) |                            math                                  | [Link to CodeWars](https://www.codewars.com/kata/514b92a657cdc65150000006) |
 | 9      | [Stop gninnipS My sdroW!](https://github.com/zhongxia2019/codewars-leetcode/blob/main/codewars/6kyu/spin_words.py) |                  string                                            | [Link to CodeWars](https://www.codewars.com/kata/5264d2b162488dc400000001) |
 | 10     | [Array.diff](https://github.com/zhongxia2019/codewars-leetcode/blob/main/codewars/6kyu/array_diff.py) |                          arrays                                   | [Link to CodeWars](https://www.codewars.com/kata/523f5d21c841566fde000009) |
-| 11     |                                                              |                                                              |                                                              |
+| 11 | [GA-DE-RY-PO-LU-KI cypher vol 3 - Missing key](https://github.com/zhongxia2019/codewars-leetcode/blob/main/codewars/6kyu/find_the_key.py)| sorted | [Link to CodeWars](https://www.codewars.com/kata/592bdf59912f2209710000e9) |
+| 12 | [Free pizza](https://github.com/zhongxia2019/codewars-leetcode/blob/main/codewars/6kyu/pizza_rewards.py) | arrays | [Link to CodeWars](https://www.codewars.com/kata/595910299197d929a10005ae) |
+| 13 | [Find Added](ttps://github.com/zhongxia2019/codewars-leetcode/blob/main/codewars/6kyu/find_added.py) | arrays, string | [Link to CodeWars](https://www.codewars.com/kata/58de77a2c19f096a5a00013f) |
+| 14 | | | |
+
 
 ### 5 kyu
 
@@ -32,7 +36,7 @@ record solutions on codewars and leetcode
 |   2   |  [Simple Pig Latin](https://github.com/zhongxia2019/codewars-leetcode/blob/main/codewars/5kyu/pig_it.py)    |   regular expressions   |   [Link to CodeWars](https://www.codewars.com/kata/520b9d2ad5c005041100000f)   |
 |   3  |  [Car Park Escape](https://github.com/zhongxia2019/codewars-leetcode/blob/main/codewars/5kyu/escape.py)     | arrays |  [Link to CodeWars](https://www.codewars.com/kata/591eab1d192fe0435e000014)    |
 | 4 |  | |  |
-
+| 5 | | | |
 
 
 ## leetcode
