@@ -24,8 +24,15 @@ record solutions on codewars and leetcode
 | 10     | [Array.diff](https://github.com/zhongxia2019/codewars-leetcode/blob/main/codewars/6kyu/array_diff.py) |                          arrays                                   | [Link to CodeWars](https://www.codewars.com/kata/523f5d21c841566fde000009) |
 | 11 | [GA-DE-RY-PO-LU-KI cypher vol 3 - Missing key](https://github.com/zhongxia2019/codewars-leetcode/blob/main/codewars/6kyu/find_the_key.py)| sorted | [Link to CodeWars](https://www.codewars.com/kata/592bdf59912f2209710000e9) |
 | 12 | [Free pizza](https://github.com/zhongxia2019/codewars-leetcode/blob/main/codewars/6kyu/pizza_rewards.py) | arrays | [Link to CodeWars](https://www.codewars.com/kata/595910299197d929a10005ae) |
-| 13 | [Find Added](ttps://github.com/zhongxia2019/codewars-leetcode/blob/main/codewars/6kyu/find_added.py) | arrays, string | [Link to CodeWars](https://www.codewars.com/kata/58de77a2c19f096a5a00013f) |
-| 14 | | | |
+| 13 | [Find Added](https://github.com/zhongxia2019/codewars-leetcode/blob/main/codewars/6kyu/find_added.py) | arrays, string | [Link to CodeWars](https://www.codewars.com/kata/58de77a2c19f096a5a00013f) |
+| 14 | [Numerical Palindrome #1.5](https://github.com/zhongxia2019/codewars-leetcode/blob/main/codewars/6kyu/palindrome.py) | arrays | [Link to CodeWars](https://www.codewars.com/kata/58e09234ca6895c7b300008c) |
+| 15 | [Case Reversal of Consecutive Duplicates](https://github.com/zhongxia2019/codewars-leetcode/blob/main/codewars/6kyu/reverse.py) | string, re, | [Link to CodeWars](https://www.codewars.com/kata/577c2d68311a24132a0002a5) |
+| 16 | [Playing with digits](https://github.com/zhongxia2019/codewars-leetcode/blob/main/codewars/6kyu/dig_pow.py) | math | [Link to CodeWars](https://www.codewars.com/kata/5552101f47fc5178b1000050) |
+| 17 | [Remove a Specific Element of an Array](https://github.com/zhongxia2019/codewars-leetcode/blob/main/codewars/6kyu/select_subarray.py) | arrays | [Link to CodeWars](https://www.codewars.com/kata/581bb3c1c221fb8e790001ef) |
+| 18 | | | |
+| 19 | | | |
+| 20 | | | |
+
 
 
 ### 5 kyu
