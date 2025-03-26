@@ -29,9 +29,13 @@ record solutions on codewars and leetcode
 | 15 | [Case Reversal of Consecutive Duplicates](https://github.com/zhongxia2019/codewars-leetcode/blob/main/codewars/6kyu/reverse.py) | string, re, | [link](https://www.codewars.com/kata/577c2d68311a24132a0002a5) |
 | 16 | [Playing with digits](https://github.com/zhongxia2019/codewars-leetcode/blob/main/codewars/6kyu/dig_pow.py) | math | [link](https://www.codewars.com/kata/5552101f47fc5178b1000050) |
 | 17 | [Remove a Specific Element of an Array](https://github.com/zhongxia2019/codewars-leetcode/blob/main/codewars/6kyu/select_subarray.py) | arrays | [link](https://www.codewars.com/kata/581bb3c1c221fb8e790001ef) |
-| 18 | | | |
-| 19 | | | |
-| 20 | | | |
+| 18 | [Plenty of Fish in the Pond](https://github.com/zhongxia2019/codewars-leetcode/blob/main/codewars/6kyu/fish.py) | string | [link](https://www.codewars.com/kata/5904be220881cb68be00007d) |
+| 19 | [Word a10n (abbreviation)](https://github.com/zhongxia2019/codewars-leetcode/blob/main/codewars/6kyu/abbreviate.py) | re | [link](https://www.codewars.com/kata/5375f921003bf62192000746) |
+| 20 | [Return 1, 2, 3 randomly](https://github.com/zhongxia2019/codewars-leetcode/blob/main/codewars/6kyu/one_two_three.py) | re | [link](https://www.codewars.com/kata/593e84f16e836ca9a9000054) |
+| 21 | | | |
+| 22 | | | |
+| 23 | | | |
+| 24 | | | |
 
 
 
@@ -42,7 +46,7 @@ record solutions on codewars and leetcode
 | 1 | [Moving Zeros To The End](https://github.com/zhongxia2019/codewars-leetcode/blob/main/codewars/5kyu/move_zeros.py) |  arrays, sorting   |   [link](https://www.codewars.com/kata/52597aa56021e91c93000cb0)    |
 |   2   |  [Simple Pig Latin](https://github.com/zhongxia2019/codewars-leetcode/blob/main/codewars/5kyu/pig_it.py)    |   regular expressions   |   [link](https://www.codewars.com/kata/520b9d2ad5c005041100000f)   |
 |   3  |  [Car Park Escape](https://github.com/zhongxia2019/codewars-leetcode/blob/main/codewars/5kyu/escape.py)     | arrays |  [link](https://www.codewars.com/kata/591eab1d192fe0435e000014)    |
-| 4 |  | |  |
+| 4 | [Product of consecutive Fib numbers](https://github.com/zhongxia2019/codewars-leetcode/blob/main/codewars/5kyu/productFib.py) | math |  [link](https://www.codewars.com/kata/5541f58a944b85ce6d00006a) |
 | 5 | | | |
 
 
