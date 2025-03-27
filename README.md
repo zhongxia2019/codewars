@@ -1,12 +1,25 @@
-# codewars-leetcode
+# codewars
 
-record solutions on codewars and leetcode
+record solutions on codewars
 
 **My profile on [codewars](https://www.codewars.com/users/zhongxia2019)**:
 
 ![Codewars Rank](https://www.codewars.com/users/zhongxia2019/badges/large)
 
 ## codewars
+
+### 5 kyu
+
+|  Number    | Solution |   Tags   | Link to CodeWars |
+| ---- | ---- | ---- | ---- |
+| 1 | [Moving Zeros To The End](https://github.com/zhongxia2019/codewars-leetcode/blob/main/codewars/5kyu/move_zeros.py) |  arrays, sorting   |   [link](https://www.codewars.com/kata/52597aa56021e91c93000cb0)    |
+|   2   |  [Simple Pig Latin](https://github.com/zhongxia2019/codewars-leetcode/blob/main/codewars/5kyu/pig_it.py)    |   regular expressions   |   [link](https://www.codewars.com/kata/520b9d2ad5c005041100000f)   |
+|   3  |  [Car Park Escape](https://github.com/zhongxia2019/codewars-leetcode/blob/main/codewars/5kyu/escape.py)     | arrays |  [link](https://www.codewars.com/kata/591eab1d192fe0435e000014)    |
+| 4 | [Product of consecutive Fib numbers](https://github.com/zhongxia2019/codewars-leetcode/blob/main/codewars/5kyu/productFib.py) | math |  [link](https://www.codewars.com/kata/5541f58a944b85ce6d00006a) |
+| 5 | [Is my friend cheating?](https://github.com/zhongxia2019/codewars-leetcode/blob/main/codewars/5kyu/removNb.py) | math | [link](https://www.codewars.com/kata/5547cc7dcad755e480000004) |
+| 6 | [Caesar Cipher Helper](https://github.com/zhongxia2019/codewars-leetcode/blob/main/codewars/5kyu/CaesarCipher.py) | string | [link](https://www.codewars.com/kata/526d42b6526963598d0004db) |
+| 7 | [Longest Mountain Pass](https://github.com/zhongxia2019/codewars-leetcode/blob/main/codewars/5kyu/longest_mountain_pass.py) | algorithm, arrays | [link](https://www.codewars.com/kata/660595d3bd866805d00ec4af) |
+
 
 ### 6 kyu
 
@@ -36,32 +49,4 @@ record solutions on codewars and leetcode
 | 22 | [Crazy programmer 01: find SuperMan](https://github.com/zhongxia2019/codewars-leetcode/blob/main/codewars/6kyu/find_super_man.py) | re | [link](https://www.codewars.com/kata/56d3c1eb3323a88d0a000305)  |
 | 23 | [Duplicate Encoder](https://github.com/zhongxia2019/codewars-leetcode/blob/main/codewars/6kyu/duplicate_encode.py) | string | [link](https://www.codewars.com/kata/54b42f9314d9229fd6000d9c) |
 | 24 | [Dreidel dreidel](https://github.com/zhongxia2019/codewars-leetcode/blob/main/codewars/6kyu/gamble.py) | lambda | [link](https://www.codewars.com/kata/52b013920b1d45c8b4000355) |
-| 25 | | | |
-| 26 | | | |
-| 27 | | | |
-| 28 | | | |
-| 29 | | | |
 
-
-### 5 kyu
-
-|  Number    | Solution |   Tags   | Link to CodeWars |
-| ---- | ---- | ---- | ---- |
-| 1 | [Moving Zeros To The End](https://github.com/zhongxia2019/codewars-leetcode/blob/main/codewars/5kyu/move_zeros.py) |  arrays, sorting   |   [link](https://www.codewars.com/kata/52597aa56021e91c93000cb0)    |
-|   2   |  [Simple Pig Latin](https://github.com/zhongxia2019/codewars-leetcode/blob/main/codewars/5kyu/pig_it.py)    |   regular expressions   |   [link](https://www.codewars.com/kata/520b9d2ad5c005041100000f)   |
-|   3  |  [Car Park Escape](https://github.com/zhongxia2019/codewars-leetcode/blob/main/codewars/5kyu/escape.py)     | arrays |  [link](https://www.codewars.com/kata/591eab1d192fe0435e000014)    |
-| 4 | [Product of consecutive Fib numbers](https://github.com/zhongxia2019/codewars-leetcode/blob/main/codewars/5kyu/productFib.py) | math |  [link](https://www.codewars.com/kata/5541f58a944b85ce6d00006a) |
-| 5 | [Is my friend cheating?](https://github.com/zhongxia2019/codewars-leetcode/blob/main/codewars/5kyu/removNb.py) | math | [link](https://www.codewars.com/kata/5547cc7dcad755e480000004) |
-| 6 | [Caesar Cipher Helper](https://github.com/zhongxia2019/codewars-leetcode/blob/main/codewars/5kyu/CaesarCipher.py) | string | [link](https://www.codewars.com/kata/526d42b6526963598d0004db) |
-| 7 | [Longest Mountain Pass](https://github.com/zhongxia2019/codewars-leetcode/blob/main/codewars/5kyu/longest_mountain_pass.py) | algorithm, arrays | [link](https://www.codewars.com/kata/660595d3bd866805d00ec4af) |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
-| 11 | | | |
-| 12 | | | |
-| 13 | | | |
-| 14 | | | |
-| 15 | | | |
-
-
-## leetcode
