@@ -52,6 +52,16 @@ record solutions on codewars and leetcode
 |   3  |  [Car Park Escape](https://github.com/zhongxia2019/codewars-leetcode/blob/main/codewars/5kyu/escape.py)     | arrays |  [link](https://www.codewars.com/kata/591eab1d192fe0435e000014)    |
 | 4 | [Product of consecutive Fib numbers](https://github.com/zhongxia2019/codewars-leetcode/blob/main/codewars/5kyu/productFib.py) | math |  [link](https://www.codewars.com/kata/5541f58a944b85ce6d00006a) |
 | 5 | [Is my friend cheating?](https://github.com/zhongxia2019/codewars-leetcode/blob/main/codewars/5kyu/removNb.py) | math | [link](https://www.codewars.com/kata/5547cc7dcad755e480000004) |
+| 6 | [Caesar Cipher Helper](https://github.com/zhongxia2019/codewars-leetcode/blob/main/codewars/5kyu/CaesarCipher.py) | string | [link](https://www.codewars.com/kata/526d42b6526963598d0004db) |
+| 7 | [Longest Mountain Pass](https://github.com/zhongxia2019/codewars-leetcode/blob/main/codewars/5kyu/longest_mountain_pass.py) | algorithm, arrays | [link](https://www.codewars.com/kata/660595d3bd866805d00ec4af) |
+| 8 | | | |
+| 9 | | | |
+| 10 | | | |
+| 11 | | | |
+| 12 | | | |
+| 13 | | | |
+| 14 | | | |
+| 15 | | | |
 
 
 ## leetcode
