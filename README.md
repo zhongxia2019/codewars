@@ -32,11 +32,15 @@ record solutions on codewars and leetcode
 | 18 | [Plenty of Fish in the Pond](https://github.com/zhongxia2019/codewars-leetcode/blob/main/codewars/6kyu/fish.py) | string | [link](https://www.codewars.com/kata/5904be220881cb68be00007d) |
 | 19 | [Word a10n (abbreviation)](https://github.com/zhongxia2019/codewars-leetcode/blob/main/codewars/6kyu/abbreviate.py) | re | [link](https://www.codewars.com/kata/5375f921003bf62192000746) |
 | 20 | [Return 1, 2, 3 randomly](https://github.com/zhongxia2019/codewars-leetcode/blob/main/codewars/6kyu/one_two_three.py) | re | [link](https://www.codewars.com/kata/593e84f16e836ca9a9000054) |
-| 21 | | | |
-| 22 | | | |
-| 23 | | | |
-| 24 | | | |
-
+| 21 | [Numerical Palindrome #4](https://github.com/zhongxia2019/codewars-leetcode/blob/main/codewars/6kyu/palindrome_2.py) | string | [link](https://www.codewars.com/kata/58df8b4d010a9456140000c7) |
+| 22 | [Crazy programmer 01: find SuperMan](https://github.com/zhongxia2019/codewars-leetcode/blob/main/codewars/6kyu/find_super_man.py) | re | [link](https://www.codewars.com/kata/56d3c1eb3323a88d0a000305)  |
+| 23 | [Duplicate Encoder](https://github.com/zhongxia2019/codewars-leetcode/blob/main/codewars/6kyu/duplicate_encode.py) | string | [link](https://www.codewars.com/kata/54b42f9314d9229fd6000d9c) |
+| 24 | [Dreidel dreidel](https://github.com/zhongxia2019/codewars-leetcode/blob/main/codewars/6kyu/gamble.py) | lambda | [link](https://www.codewars.com/kata/52b013920b1d45c8b4000355) |
+| 25 | | | |
+| 26 | | | |
+| 27 | | | |
+| 28 | | | |
+| 29 | | | |
 
 
 ### 5 kyu
@@ -47,7 +51,7 @@ record solutions on codewars and leetcode
 |   2   |  [Simple Pig Latin](https://github.com/zhongxia2019/codewars-leetcode/blob/main/codewars/5kyu/pig_it.py)    |   regular expressions   |   [link](https://www.codewars.com/kata/520b9d2ad5c005041100000f)   |
 |   3  |  [Car Park Escape](https://github.com/zhongxia2019/codewars-leetcode/blob/main/codewars/5kyu/escape.py)     | arrays |  [link](https://www.codewars.com/kata/591eab1d192fe0435e000014)    |
 | 4 | [Product of consecutive Fib numbers](https://github.com/zhongxia2019/codewars-leetcode/blob/main/codewars/5kyu/productFib.py) | math |  [link](https://www.codewars.com/kata/5541f58a944b85ce6d00006a) |
-| 5 | | | |
+| 5 | [Is my friend cheating?](https://github.com/zhongxia2019/codewars-leetcode/blob/main/codewars/5kyu/removNb.py) | math | [link](https://www.codewars.com/kata/5547cc7dcad755e480000004) |
 
 
 ## leetcode
